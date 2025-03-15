@@ -3,7 +3,7 @@
 int main()
 {
 
-    printf("Hola pa");
+    printf("Ahora edite el fichero, cambiando el texto");
     
     return 0;
 }
