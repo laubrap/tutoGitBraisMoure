@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("aguante san lorenzo pe");
+    printf("san lorenzo pe");
     
     return 0;
 }
