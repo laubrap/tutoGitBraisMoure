@@ -6,6 +6,8 @@ int main()
 
     scanf("%99s",name);
     scanf("%99s",pasword);
+    
+    printf("esta es mi edicion");
 
     return 0;
 }
