@@ -8,6 +8,6 @@ int main()
     scanf("%99s",pasword);
     
     printf("esta es mi edicion");
-
+    printf("esta es mi edicion");
     return 0;
 }
