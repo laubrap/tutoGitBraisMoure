@@ -4,6 +4,6 @@ int main()
 {
 
     printf("Ahora edite el fichero, cambiando el texto");
-    
+    printf("Ahora edite el fichero, cambiando el texto");
     return 0;
 }
