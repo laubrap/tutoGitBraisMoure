@@ -6,7 +6,8 @@ int main()
     printf("esta es mi edicion PE");
     scanf("%99s",name);
     scanf("%99s",pasword);
-    
+    scanf("este es mi ultimo cambi");
+
     printf("esta es mi edicion");
     printf("esta es mi edicion");
     return 0;
